@@ -1,5 +1,3 @@
-# Aryan_Portfolio
-
 ## [Project 1: News Summarization Telegram Bot](https://github.com/aryanj10/News-Summarization-Telegram-Bot) 
 * Developed a system to summarize news articles by utilizing techniques such as sentence embedding using the sentence transformer model.
 * Calculated content relevance score, sentence novelty score, and sentence position score to determine the importance of each sentence within the article. Applied a weighted average of these scores to rank and prioritize sentences, ensuring that the most informative and relevant ones are included in the summary.
